@@ -105,10 +105,10 @@ ServerName www.unix.org
 * In the short story "The Machine Stops" (contained in the
 `the_machine_stops.txt` file), the main characters are Vishta and Kuno. How many
 times does the word "Vishta" show up in the short story? How many times does the
-word "Kuno" show up in the short story? (Type your answers here.)
+word "Kuno" show up in the short story? Vishta does not appear at all, but Vashti does 31 times. Kuno appears 25 times. 
 
 ## Stretch Goals
 
-* Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
-* How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
-* Explore the Emacs file browser mode. Describe how it works here.
+* Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way): tetris.jpg uploaded. 
+* How do you turn on line numbering in Vi? Emacs? For vi "set nu" for on and "set nu!" for off. For Emacs: M-x linum-mode (m being alt)
+* Explore the Emacs file browser mode. Describe how it works here. C+X and C+F and dont put in a file you can get to the directory tree and navigate around with the cursor until you find the folder and file in its directory location, then open it. 
